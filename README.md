@@ -14,24 +14,24 @@ The dataset is available on [Kaggle](https://www.kaggle.com/datasets/carrie1/eco
 
 ## Project Workflow
 
-[### 1. Data Preparation](https://github.com/LabanMutua/E-Commerce-Data-Analysis/blob/main/Data_Preparation.ipynb)
+### [1. Data Preparation](https://github.com/LabanMutua/E-Commerce-Data-Analysis/blob/main/Data_Preparation.ipynb)
 Handling Missing Values: Dropped rows with missing descriptions, imputed placeholder CustomerID for missing IDs.
 Feature Engineering: Created new columns such as TotalPrice (Quantity * UnitPrice) and TransactionType (accounting for returns).
 
-[### 2. Exploratory Data Analysis (EDA)](https://github.com/LabanMutua/E-Commerce-Data-Analysis/blob/main/Exploratory_Data_Analysis.ipynb)
+### [2. Exploratory Data Analysis (EDA)](https://github.com/LabanMutua/E-Commerce-Data-Analysis/blob/main/Exploratory_Data_Analysis.ipynb)
 - **Sales Analysis:** Identified top products and trends, with peak sales in November.
 - **Customer Analysis:** Identified top customers by spend and frequency.
 - **Geographic Analysis:** UK accounted for 90% of sales; notable sales in the Netherlands, EIRE, Germany, France, and Australia.
 - **Return Analysis:** High returns on Paper Craft, Little Birdie despite high sales.
 
-[### 3. Key Insights](https://github.com/LabanMutua/E-Commerce-Data-Analysis/blob/main/Insights_and_Recommendations.ipynb)
+### [3. Key Insights](https://github.com/LabanMutua/E-Commerce-Data-Analysis/blob/main/Insights_and_Recommendations.ipynb)
 - **Top-selling Products:** Dotcom Postage, Regency Cakestand 3 Tier, Paper Craft, Little Birdie.
 - **Sales Trends:** Increasing monthly, with a peak in November.
 - **Customer Spend:** Top spenders: 14646, 18102, 17450.
 - **Product Returns:** Paper Craft and Little Birdie have the highest returns.
 - **Net Revenue:** **£9.7M** after returns.
 
-[### 4. Reccommendations](https://github.com/LabanMutua/E-Commerce-Data-Analysis/blob/main/Insights_and_Recommendations.ipynb)
+### [4. Reccommendations](https://github.com/LabanMutua/E-Commerce-Data-Analysis/blob/main/Insights_and_Recommendations.ipynb)
 - **Optimize for Holiday Season:** Prepare for peak seasons to maximize revenue.
 - **Customer Retention:** Loyalty programs or offer personalized discounts.
 - **Expand Global Sales:** Target regions with growing sales outside the UK.
