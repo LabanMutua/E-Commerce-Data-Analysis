@@ -4,10 +4,10 @@
 This project showcases a comprehensive data analysis on an e-commerce dataset sourced from Kaggle, containing transactional records from 2010 and 2011 for a UK-based online retail company. Key objectives include identifying sales trends, understanding customer behavior, and providing actionable insights to optimize revenue generation.
 
 #### Key Features
-- Data Cleaning: Efficient handling of missing values, duplicates, and negative quantities.
-- Feature Engineering: New columns for enriched analysis.
-- Insightful Visualizations: Clear, meaningful charts to highlight key findings.
-- Practical Recommendations: Actionable steps to optimize business performance.
+- **Data Cleaning:** Efficient handling of missing values, duplicates, and negative quantities.
+- **Feature Engineering:** New columns for enriched analysis.
+- **Insightful Visualizations:** Clear, meaningful charts to highlight key findings.
+- **Practical Recommendations:** Actionable steps to optimize business performance.
   
 #### Data Source
 The dataset is available on [Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
