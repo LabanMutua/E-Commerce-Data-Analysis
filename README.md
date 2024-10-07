@@ -24,14 +24,14 @@ Feature Engineering: Created new columns such as TotalPrice (Quantity * UnitPric
 - **Geographic Analysis:** UK accounted for 90% of sales; notable sales in the Netherlands, EIRE, Germany, France, and Australia.
 - **Return Analysis:** High returns on Paper Craft, Little Birdie despite high sales.
 
-### [3. Key Insights](https://github.com/LabanMutua/E-Commerce-Data-Analysis/blob/main/Insights_and_Recommendations.ipynb)
+### [3. Key Insights](https://github.com/LabanMutua/E-Commerce-Data-Analysis/blob/main/Insights_and_Recommendations.md)
 - **Top-selling Products:** Dotcom Postage, Regency Cakestand 3 Tier, Paper Craft, Little Birdie.
 - **Sales Trends:** Increasing monthly, with a peak in November.
 - **Customer Spend:** Top spenders: 14646, 18102, 17450.
 - **Product Returns:** Paper Craft and Little Birdie have the highest returns.
 - **Net Revenue:** **£9.7M** after returns.
 
-### [4. Reccommendations](https://github.com/LabanMutua/E-Commerce-Data-Analysis/blob/main/Insights_and_Recommendations.ipynb)
+### [4. Reccommendations](https://github.com/LabanMutua/E-Commerce-Data-Analysis/blob/main/Insights_and_Recommendations.md)
 - **Optimize for Holiday Season:** Prepare for peak seasons to maximize revenue.
 - **Customer Retention:** Loyalty programs or offer personalized discounts.
 - **Expand Global Sales:** Target regions with growing sales outside the UK.
