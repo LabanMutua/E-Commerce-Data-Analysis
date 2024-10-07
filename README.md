@@ -16,6 +16,7 @@ The dataset is available on [Kaggle](https://www.kaggle.com/datasets/carrie1/eco
 
 ### [1. Data Preparation](https://github.com/LabanMutua/E-Commerce-Data-Analysis/blob/main/Data_Preparation.ipynb)
 Handling Missing Values: Dropped rows with missing descriptions, imputed placeholder CustomerID for missing IDs.
+
 Feature Engineering: Created new columns such as TotalPrice (Quantity * UnitPrice) and TransactionType (accounting for returns).
 
 ### [2. Exploratory Data Analysis (EDA)](https://github.com/LabanMutua/E-Commerce-Data-Analysis/blob/main/Exploratory_Data_Analysis.ipynb)
