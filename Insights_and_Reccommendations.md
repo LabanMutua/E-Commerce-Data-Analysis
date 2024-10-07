@@ -18,7 +18,7 @@
 #### 6. Net Revenue:
 - After accounting for returns, the net revenue stands at **£9,726,006.95**. This highlights the financial impact of product returns on the overall profitability, which is a critical area for improvement.
 
-- # Recommendations
+# Recommendations
 
 #### 1. Investigate High Returns for Paper Craft, Little Birdie:
 - Since this item is both a top seller and a top return, there may be a mismatch between customer expectations and product quality or description. Improving product descriptions or quality control can help reduce return rates and boost customer satisfaction.
